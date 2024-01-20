@@ -1,4 +1,8 @@
 ### Hi there 👋
+- ⚡ Fun fact: Responsible Disclose is hard
+
+### Handy links
+- TBC
 
 <!--
 **InternalError500/InternalError500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
