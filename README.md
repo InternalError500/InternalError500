@@ -1,4 +1,4 @@
-### Responsible disclosure info 👋
+### Responsible disclosure info
 - [Wikipedia](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure)
 - [NCSC toolkit](https://www.ncsc.gov.uk/information/vulnerability-disclosure-toolkit)
 - [Vulnerability Disclosure Policy Template](https://www.cisa.gov/vulnerability-disclosure-policy-template)
